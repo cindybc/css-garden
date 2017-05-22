@@ -1,1 +1,89 @@
 /* Agrega aquí tus estilos*/
+body{
+
+	font-family: 'Kalam', cursive;
+    margin: 50px;
+    background-color: #e2dcdc;
+}
+
+header{
+	background-color: aquamarine;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Baloo Bhaina', cursive;
+    font-size: 30px;
+    border-radius: 50px;
+    
+}
+
+.summary{
+	padding: 20px;
+    background-color: #95e23c;
+    margin-top: 30px;
+    border-radius: 40px;
+}
+
+.preamble{
+	background-color: #8e6be2;
+    width: 510px;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    border-radius: 40px;
+
+}
+
+.explanation{
+	background-color: #f50b56;
+    padding: 20px;
+    width: 500px;
+    float: right;
+    margin-right: 9px;
+    margin-bottom: 50px;
+    border-radius: 40px;
+}
+.participation{
+	background-color: #f5d5a7;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 40px;
+}
+.benefits{
+	background-color: #7fc5c7;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 40px;
+}
+
+.requirements, footer{
+	background-color: #CDDC39;
+    padding: 20px;
+    border-radius: 40px;
+}
+
+.design-selection{
+	background-color: #f5a8a0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 40px;
+    float: left;
+    height: 400px;
+}
+
+.design-archives{
+	background-color: #f5b94c;
+    padding: 20px;
+    border-radius: 40px;
+    width: 700px;
+    float: right;
+    margin-top: 10px;
+}
+
+.zen-resources{
+	background-color: #c4a0e4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 40px;
+    width: 700px;
+    float: right;
+}
